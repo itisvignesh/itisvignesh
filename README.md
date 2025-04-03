@@ -1,7 +1,6 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=itisvignesh&label=Profile%20views&color=grey&style=for-the-badge" alt="itisvignesh" /> </p>
 <h1 align="center">Hi 👋, I'm Vigneshwaran Mrugesan</h1>
-<h3 align="center">JAMD- Just Another Mobile Developer</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itisvignesh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="itisvignesh" /></a> </p>
